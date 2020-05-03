@@ -1,11 +1,6 @@
 ![BAIME banner Linkedin](https://user-images.githubusercontent.com/47600826/73174265-9c3c5e80-4107-11ea-858b-c2c9f5304729.png)
 
-# Python-tips-tricks
-Hi and welcome to my repo of Python tips and tricks. 
-
-Here I will store all tips &amp; tricks for the use of Python that I collect in order to have them all stored in one place.
-
-## Escape Sequences: 
+# Escape Sequences: 
 Here are all the escape sequences which Python supports. 
 
 |Escape|Explaination|

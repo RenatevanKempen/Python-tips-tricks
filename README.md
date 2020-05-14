@@ -18,7 +18,7 @@ Here I will store all tips & tricks for the use of Python that I collect in orde
 - [built-in types](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
 - [Pandas](http://pandas.pydata.org/)
 - [String literals](https://docs.python.org/2.0/ref/strings.html)
-- [Pyhon cheatsheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+- [Python cheatsheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Swapcase()](https://www.geeksforgeeks.org/python-string-swapcase/)
 - [Making a function](https://stackoverflow.com/questions/51165384/how-does-one-go-about-making-a-function-which-replaces-a-specific-index)
 - [replace()](https://www.programiz.com/python-programming/methods/string/replace)

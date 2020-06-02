@@ -6,3 +6,4 @@ Also you will find cheatsheets here.
 ## Useful Links
 - [Matplotlib markers](https://matplotlib.org/3.2.1/api/markers_api.html)
 - [Matplotlib linestyles](https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/linestyles.html)
+- [Matplotlib annotations (arrows)](https://matplotlib.org/2.0.0/users/annotations.html)
